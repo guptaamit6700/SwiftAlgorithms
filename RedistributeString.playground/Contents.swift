@@ -20,7 +20,6 @@ class RedistributeString {
                 j += 1
             }
         }
-        
         for i in 0..<26 {
             //print(i)
             //print(threeDoubles[i])
