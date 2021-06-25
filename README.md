@@ -1,4 +1,6 @@
 # SwiftAlgorithms
+Array Redistribution Algorithm ----
+
 This algorithm is written in swift. The main goal of this algorithm is to redistribute the array in such a way that all string object should have same value.
 ex. word array = ["aabc","aaabc","aabc"]
 Steps -: 1. Initialise array of integer contains 26 values and initialise all objects to zero.  
